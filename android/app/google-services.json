@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515209938373",
+    "project_id": "queue-sync-fusion",
+    "storage_bucket": "queue-sync-fusion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515209938373:android:3b3cc7619adf237f64b7ac",
+        "android_client_info": {
+          "package_name": "com.example.offline_sync_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8sD7dJFZn4Q_4B_9Spp9E9sie-xZZpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
